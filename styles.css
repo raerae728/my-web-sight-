@@ -7,7 +7,8 @@ Date: 11/23/21
 */
 
 Body{
-    h2{background-color: FC7052;
+    h2{ 
+        background: color FF 7F 50px;;
     
     }
 }
