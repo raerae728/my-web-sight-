@@ -14,6 +14,7 @@ Date: 11/23/21
     margin: 0 auto;
   border-radius: 20px;
   color: white;
+  font-size: .5em;
 
 }
 .content2{
@@ -48,7 +49,7 @@ Date: 11/23/21
     float:left;
     margin: 200px;
     padding: 5px;
-    height: 400px;px;
+    height: 400px;
     width: 400px;
     text-align: center;
     text-shadow: white;
@@ -66,6 +67,7 @@ Date: 11/23/21
     border-width: 3px;
     margin: 0 auto;
     color:black;
+    font-size: 2em;
  
 }
 
