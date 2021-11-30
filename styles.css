@@ -60,7 +60,6 @@ Date: 11/23/21
     border-width: 3px;
     color:white;
     font-size: 1.2em;
-
  }
  .headertext{
     position: relative;
@@ -72,14 +71,28 @@ Date: 11/23/21
     margin: 0 auto;
     color:black;
     font-size: 2em;
- 
 }
 
 .image{
     float:right;
 
 }
+.sitenavigation{
+    float: center;
+    text-align: center;
+    font-size: 3em;
+    background-color: palevioletred;
+    max-width: 1500px;
+    position: relative;
+    margin: 0 auto;
+    color: white;
+}
+.sitenavigation p{
+    display: inline-block;
+    margin: 0.5em;
+    color:white;
 
+}
 .text { 
     text-align: center;
 }
