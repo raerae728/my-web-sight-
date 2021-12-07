@@ -1,0 +1,134 @@
+/* 
+All About Me 
+Filename: styles.css
+
+Author: Raelyn Lightfoot
+Date: 11/23/21
+*/
+/* -------------classes------------------- */
+.content{
+    background-color: #ff7f50;
+    max-width: 2000px;
+    min-height: 300px;
+    padding: 20px;
+    margin: 0 auto;
+  border-radius: 20px;
+  color: white;
+  font-size: 2em;
+
+}
+.content2{
+    background-color: #00ced1;
+    max-width: 2000px;
+    min-height: 400px;
+    padding: 20px;
+    margin: 0 auto;
+  border-radius: 20px;
+  color: white;
+  font-size: 2em;
+}
+.content3{
+    background-color: #c71585;
+    max-width: 2000px;
+    min-height: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  border-radius: 20px;
+  color: white;
+  font-size: 2em;
+}
+
+.content4{
+    background-color: #008080;
+    max-width: 2000px;
+    min-height: 400px;
+    padding: 20px;
+    margin: 0 auto;
+  border-radius: 20px;
+  color: white;
+  font-size: 2em;
+}
+.float{
+    float:left;
+    margin: 200px;
+    padding: 5px;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    text-shadow: white;
+    border: black;
+    border-width: 3px;
+    color:white;
+    font-size: 1.2em;
+ }
+ .headertext{
+    position: relative;
+    background-color:white;
+    max-width: 800px;
+    text-align: center;
+    border:black;
+    border-width: 3px;
+    margin: 0 auto;
+    color:black;
+    font-size: 2em;
+}
+
+.image{
+    float:right;
+
+}
+.sitenavigation{
+    float: center;
+    text-align: center;
+    font-size: 3em;
+    background-color: palevioletred;
+    max-width: 1500px;
+    position: relative;
+    margin: 0 auto;
+    color: white;
+}
+.sitenavigation p{
+    display: inline-block;
+    margin: 0.5em;
+    color:white;
+
+}
+.text { 
+    text-align: center;
+}
+
+
+
+/* -------------tags------------------- */
+header{
+    background-image: url("images/download\ \(1\).jpeg");
+    min-height: 200px;
+    text-align: center;
+    padding-top: 80px;
+    margin-bottom: 30px;
+}
+
+footer{
+    background-image: url("images/download\ \(1\).jpeg");
+    min-height: 200px;
+    clear: both;
+    margin-top: 30px;
+}
+
+
+/* -------------id------------------- */
+
+#Aboutme{
+    background-color:#ff7f50;
+
+}
+
+#Hobbies{
+    background-color:#00ced1;
+
+}
+
+#Family{
+    background-color:#c71585;
+
+}
